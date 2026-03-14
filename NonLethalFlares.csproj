@@ -30,6 +30,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <PackageReference Include="STBlade.Modding.TLD.Il2CppAssemblies.Windows" Version="2.51.0" />
+    <Reference Include="ModSettings">
+      <HintPath>$(ModsPath)\ModSettings.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
