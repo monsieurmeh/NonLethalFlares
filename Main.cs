@@ -7,9 +7,9 @@ using UnityEngine.AddressableAssets.ResourceLocators;
 
 [assembly: AssemblyTitle("NonLethalFlares")]
 [assembly: AssemblyCopyright("MonsiuerMeh")]
-[assembly: AssemblyVersion("1.0.0")]
-[assembly: AssemblyFileVersion("1.0.0")]
-[assembly: MelonInfo(typeof(NonLethalFlares.Main), "Nonlethal Flares", "1.0.0", "MonsieurMeh", null)]
+[assembly: AssemblyVersion("1.0.1")]
+[assembly: AssemblyFileVersion("1.0.1")]
+[assembly: MelonInfo(typeof(NonLethalFlares.Main), "Nonlethal Flares", "1.0.1", "MonsieurMeh", null)]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
 
 namespace NonLethalFlares;
